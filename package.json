@@ -1,0 +1,8 @@
+{
+  "name": "devenliu.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:devenliu/devenliu.github.io.git",
+  "author": "DevenLiu <devenliu@outlook.com>",
+  "license": "MIT"
+}
